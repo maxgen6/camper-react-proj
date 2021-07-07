@@ -18,16 +18,16 @@ export default function Footer() {
                   <p className="footer-links__item_title">Discover the Network</p>
                   <ul>
                     <li>
-                      <a href="#">Where to shop</a>
+                      <a href="/#">Where to shop</a>
                     </li>
                     <li>
-                      <a href="#">Tour Guided</a>
+                      <a href="/#">Tour Guided</a>
                     </li>
                     <li>
-                      <a href="#">Our Tours</a>
+                      <a href="/#">Our Tours</a>
                     </li>
                     <li>
-                      <a href="#">About Us</a>
+                      <a href="/#">About Us</a>
                     </li>
                   </ul>
                 </li>
@@ -35,13 +35,13 @@ export default function Footer() {
                   <p className="footer-links__item_title">Become a Manager</p>
                   <ul>
                     <li>
-                      <a href="#">Join your Pairing</a>
+                      <a href="/#">Join your Pairing</a>
                     </li>
                     <li>
-                      <a href="#">Offer your Service</a>
+                      <a href="/#">Offer your Service</a>
                     </li>
                     <li>
-                      <a href="#">Are you a guide?</a>
+                      <a href="/#">Are you a guide?</a>
                     </li>
                   </ul>
                 </li>
@@ -49,16 +49,16 @@ export default function Footer() {
                   <p className="footer-links__item_title">Assistance</p>
                   <ul>
                     <li>
-                      <a href="#">Support Center</a>
+                      <a href="/#">Support Center</a>
                     </li>
                     <li>
-                      <a href="#">FAQs</a>
+                      <a href="/#">FAQs</a>
                     </li>
                     <li>
-                      <a href="#">Cancallation Options</a>
+                      <a href="/#">Cancallation Options</a>
                     </li>
                     <li>
-                      <a href="#">Reliablity and Sequrity</a>
+                      <a href="/#">Reliablity and Sequrity</a>
                     </li>
                   </ul>
                 </li>
@@ -71,19 +71,19 @@ export default function Footer() {
               <li>
                 <ul>
                   <li>
-                    <a href="#">About</a>
+                    <a href="/#">About</a>
                   </li>
                   <li>
-                    <a href="#">Site Map</a>
+                    <a href="/#">Site Map</a>
                   </li>
                   <li>
-                    <a href="#">Terms</a>
+                    <a href="/#">Terms</a>
                   </li>
                   <li>
-                    <a href="#">Privacy Policy</a>
+                    <a href="/#">Privacy Policy</a>
                   </li>
                   <li>
-                    <a href="#">Privacy Policy</a>
+                    <a href="/#">Privacy Policy</a>
                   </li>
                 </ul>
               </li>

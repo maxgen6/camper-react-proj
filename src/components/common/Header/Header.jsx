@@ -17,7 +17,7 @@ export default function Header() {
         <div className="col-12 col-md-10 offset-md-1">
           <ul className="header-list">
             <li className="header-list__item">
-              <a href="#">
+              <a href="/#">
                 <Logo />
               </a>
             </li>
@@ -32,7 +32,7 @@ export default function Header() {
             Find out how we can <span>save your time</span> in Backpacking in Europe
           </h2>
           <p className="header-info__description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ac amet id eget scelerisque amet etiam in sit commodo. Pretium ut duis orci pulvinar pretium id consectetur. </p>
-          <a href="#" className="header-info__link">
+          <a href="/#" className="header-info__link">
             <Globe /> Explore
           </a>
         </div>

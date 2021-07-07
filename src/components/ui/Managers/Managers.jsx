@@ -22,7 +22,7 @@ export default function Managers() {
           <div className="managers-text">
             <h2 className="title">Join the community campervan sites managers.</h2>
             <p className="subtitle">Discover all the equibbed areas in Italy. Find the shop with all the services for you and your camper.</p>
-            <a href="#" className="link"> <Play /> Start </a>
+            <a href="/#" className="link"> <Play /> Start </a>
           </div>
           <PhotoBlock photoInfo={photoInfo} />
         </div>

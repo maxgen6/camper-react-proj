@@ -22,7 +22,7 @@ export default function Priorities({ title, prioritiesInfo }) {
                   <p className="priorities-item__subtitle">{item.subtitle}</p>
                 </div>
                 {item.link
-                  ? <a href="#" className="priorities-item__link">{item.link}</a>
+                  ? <a href="/#" className="priorities-item__link">{item.link}</a>
                   : ''
                 }
               </div>
