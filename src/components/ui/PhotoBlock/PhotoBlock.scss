@@ -7,6 +7,12 @@
 
   .photo-item {
 
+    img {
+      width: 230px;
+      height: 418px;
+      object-fit: cover;
+    }
+
     .name {
       margin-top: 24px;
       margin-bottom: 8px;
