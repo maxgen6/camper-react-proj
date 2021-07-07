@@ -1,0 +1,5 @@
+export { default as CardInfo } from './CardInfo'
+export { default as Priorities } from './Priorities'
+export { default as Managers } from './Managers'
+export { default as PhotoBlock } from './PhotoBlock'
+export { default as Advantages } from './Advantages'

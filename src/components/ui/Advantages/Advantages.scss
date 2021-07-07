@@ -1,0 +1,43 @@
+@import "src/styles/variables";
+
+.advantages {
+  margin-top: 232px;
+
+  &-title {
+    margin-bottom: 108px;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 45px;
+  }
+
+  &-block {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  &-item {
+    width: 32%;
+  }
+
+  &-text {
+    margin-top: 64px;
+    height: 176px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+    &__title {
+      font-weight: bold;
+      font-size: 22px;
+      line-height: 28px;
+    }
+
+    &__subtitle {
+      font-weight: 500;
+      font-size: 14px;
+      line-height: 24px;
+      opacity: .5;
+    }
+  }
+
+}

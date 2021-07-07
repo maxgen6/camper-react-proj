@@ -1,0 +1,46 @@
+@import 'src/styles/variables';
+
+.managers {
+  margin-top: 263px;
+
+  &-block {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  &-text {
+    display: flex;
+    width: 325px;
+    height: 382px;
+    flex-direction: column;
+    justify-content: space-between;
+
+    .title {
+      font-weight: bold;
+      font-size: 36px;
+      line-height: 45px;
+    }
+
+    .subtitle {
+      font-size: 18px;
+      line-height: 22px;
+      opacity: .5;
+    }
+
+    .link {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      padding: 21px 0;
+      width: 250px;
+      font-weight: bold;
+      font-size: 18px;
+      line-height: 125%;
+      color: $c-white;
+      background: $c-main-orange;
+      svg {
+        margin-right: 4px;
+      }
+    }
+  }
+}

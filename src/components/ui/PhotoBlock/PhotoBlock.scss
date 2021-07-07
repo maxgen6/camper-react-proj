@@ -1,0 +1,32 @@
+@import "src/styles/variables";
+
+.photo-block {
+  width: 788px;
+  display: flex;
+  justify-content: space-between;
+
+  .photo-item {
+
+    .name {
+      margin-top: 24px;
+      margin-bottom: 8px;
+      font-weight: bold;
+      font-size: 24px;
+      line-height: 30px;
+    }
+
+    .city {
+      margin-bottom: 11px;
+      font-size: 14px;
+      line-height: 17px;
+      color: $c-gray;
+    }
+
+    .link {
+      font-weight: 500;
+      font-size: 18px;
+      line-height: 22px;
+      color: $c-main-orange;
+    }
+  }
+}

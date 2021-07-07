@@ -1,0 +1,51 @@
+@import "src/styles/variables";
+
+.priorities {
+  padding-top: 242px;
+
+  &-title {
+    margin-bottom: 108px;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 45px;
+  }
+
+  &-block {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+
+  &-text {
+    margin-top: 64px;
+    display: flex;
+    flex-direction: column;
+    height: 169px;
+    justify-content: space-between;
+  }
+
+  &-item {
+    width: 23%;
+
+    &__title {
+      margin-bottom: 31px;
+      font-weight: bold;
+      font-size: 22px;
+      line-height: 28px;
+    }
+
+    &__subtitle {
+      font-weight: 500;
+      font-size: 14px;
+      line-height: 24px;
+      opacity: .5;
+    }
+
+    &__link {
+      font-weight: bold;
+      font-size: 18px;
+      line-height: 22px;
+      color: $c-main-orange;
+    }
+  }
+}
