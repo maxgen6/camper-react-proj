@@ -59,6 +59,14 @@ select {
   font: inherit;
 }
 
+a {
+  transition: .3s all ease-in;
+
+  &:hover {
+    opacity: .5;
+  }
+}
+
 .container {
   max-width: 1440px;
   width: 100%;
